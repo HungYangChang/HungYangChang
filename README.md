@@ -81,9 +81,9 @@ AI Software Engineer with 5+ years shipping production AI systems. I architect L
 - 📱 Building side projects and mobile apps
 - ✍️ Writing about LLM systems and production AI
 
-## Open To
+## Reach out to me if you have this role open
 
-- AI/LLM engineering roles (senior / staff level)
+- AI/LLM engineering roles (senior level)
 - Technical collaborations on LLM tooling and orchestration
 - Speaking and writing about production AI systems
 
