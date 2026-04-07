@@ -1,7 +1,7 @@
 <h1 align="center">Hung-Yang (James) Chang</h1>
 
 <p align="center">
-  <strong>AI Software Engineer | LLM Systems · Production AI · Backend</strong><br/>
+  <strong>Senior AI Software Engineer | LLM Systems · Production AI · Backend</strong><br/>
   Montreal, Canada
 </p>
 
@@ -14,7 +14,7 @@
 
 ---
 
-AI Software Engineer with 5+ years shipping production AI systems. I architect LLM orchestration pipelines, gRPC microservices, and automated testing strategies at scale. Published researcher in edge computing and neural architecture search.
+Senior AI Software Engineer with 5+ years shipping production AI systems. I architect LLM orchestration pipelines, gRPC microservices, and automated testing strategies at scale. Published researcher in edge computing and neural architecture search.
 
 ## Impact Highlights
 
